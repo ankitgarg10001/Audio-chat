@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace client
+{
+    public partial class test : Form
+    {
+        public test()
+        {
+            InitializeComponent();
+            checkedListBox1.Items.Clear();
+            checkedListBox1.Items.Add("ankit");
+        }
+    }
+}

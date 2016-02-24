@@ -1,0 +1,16 @@
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\server\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\server\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\server\server\bin\Debug\server.exe
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\server\server\bin\Debug\server.pdb
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\server\server\obj\Debug\Server.Vserver.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\server\server\obj\Debug\server.exe
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\server\server\obj\Debug\server.pdb
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+F:\Mine\Github\c#\Achat\server\server\obj\Debug\server.exe
+F:\Mine\Github\c#\Achat\server\server\obj\Debug\server.pdb
+F:\Mine\Github\c#\Achat\server\server\bin\Debug\server.exe
+F:\Mine\Github\c#\Achat\server\server\bin\Debug\server.pdb
+F:\Mine\Github\c#\Achat\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+F:\Mine\Github\c#\Achat\server\server\obj\Debug\server.Properties.Resources.resources
+F:\Mine\Github\c#\Achat\server\server\obj\Debug\Server.Vserver.resources
+F:\Mine\Github\c#\Achat\server\server\obj\Debug\server.csproj.GenerateResource.Cache

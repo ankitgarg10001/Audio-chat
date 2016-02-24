@@ -1,0 +1,24 @@
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\obj\Debug\client.Vclient.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\bin\Debug\client.exe
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\bin\Debug\client.pdb
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\bin\Debug\LumiSoft.Net.dll
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\bin\Debug\LumiSoft.Net.xml
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\obj\Debug\client.exe
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\obj\Debug\client.pdb
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\obj\Debug\client.request.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\obj\Debug\client.test.resources
+C:\Users\Ankit Garg\Documents\Visual Studio 2012\Projects\Achat\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+F:\Mine\Github\c#\Achat\client\client\obj\Debug\client.exe
+F:\Mine\Github\c#\Achat\client\client\obj\Debug\client.pdb
+F:\Mine\Github\c#\Achat\client\client\bin\Debug\client.exe
+F:\Mine\Github\c#\Achat\client\client\bin\Debug\client.pdb
+F:\Mine\Github\c#\Achat\client\client\bin\Debug\LumiSoft.Net.dll
+F:\Mine\Github\c#\Achat\client\client\bin\Debug\LumiSoft.Net.xml
+F:\Mine\Github\c#\Achat\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+F:\Mine\Github\c#\Achat\client\client\obj\Debug\client.Properties.Resources.resources
+F:\Mine\Github\c#\Achat\client\client\obj\Debug\client.request.resources
+F:\Mine\Github\c#\Achat\client\client\obj\Debug\client.test.resources
+F:\Mine\Github\c#\Achat\client\client\obj\Debug\client.Vclient.resources
+F:\Mine\Github\c#\Achat\client\client\obj\Debug\client.csproj.GenerateResource.Cache
